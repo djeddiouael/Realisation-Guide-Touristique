@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nav_item_selected">#6200EE</color>  <!-- Couleur active -->
+    <color name="nav_item_default">#757575</color>   <!-- Couleur inactive -->
+    <color name="app_background">#F5F5F5</color>
+    <color name="primaryColor">#A8A793</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="backgroundGray">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+
+
+</resources>

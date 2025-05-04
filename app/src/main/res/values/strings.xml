@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guide Touristique</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="choose_language">Choisir une langue</string>
+    <string name="title_main">Guide Touristique</string>
+    <string name="main_description">Explorez les plus belles destinations d’Algérie à travers notre guide interactif. Découvrez les sites historiques, culturels et naturels des différentes wilayas.</string>
+    <string name="tv_description_default">Aucune description disponible</string>
+    <string name="section_lieux">Lieux touristiques</string>
+    <string name="section_hotels">Hôtels</string>
+    <string name="section_restaurants">Restaurants</string>
+    <string name="btn_call">Appeler</string>
+    <string name="btn_email">Envoyer un Email</string>
+    <string name="btn_location"> localisation</string>
+
+
+        <!-- Noms des wilayas -->
+        <string name="ville_alger">Alger</string>
+        <string name="ville_oran">Oran</string>
+        <string name="ville_tlemcen">Tlemcen</string>
+        <string name="ville_constantine">Constantine</string>
+        <string name="ville_ghardaia">Ghardaïa</string>
+        <string name="ville_timimoun">Timimoun</string>
+
+        <!-- Descriptions des wilayas -->
+        <string name="desc_alger">Alger est la capitale de l’Algérie, connue pour son histoire riche, sa Casbah classée à l’UNESCO, et son mélange unique d’architecture ottomane et coloniale.</string>
+        <string name="desc_oran">Oran, surnommée "la Perle de l'ouest", est une ville côtière connue pour ses plages magnifiques, son patrimoine historique et sa vie nocturne animée.</string>
+        <string name="desc_tlemcen">Tlemcen est une ville historique célèbre pour son architecture islamique, ses mosquées anciennes et ses paysages naturels.</string>
+        <string name="desc_constantine">Constantine, la "Ville des Ponts Suspendus", est une ville spectaculaire perchée sur des falaises. Elle est riche en histoire et en culture.</string>
+        <string name="desc_ghardaia">Ghardaïa est connue pour son architecture unique et son patrimoine culturel. Elle fait partie de la vallée du Mzab, classée à l UNESCO.</string>
+        <string name="desc_timimoun">Timimoun est célèbre pour son désert rouge, ses magnifiques paysages sahariens et ses ksour traditionnels.</string>
+
+        <!--  Alger -->
+        <string name="lieu_casbah">La Casbah</string>
+        <string name="desc_casbah">Ancienne médina d’Alger, classée patrimoine mondial de l’UNESCO, avec ses ruelles étroites et son architecture ottomane.</string>
+        <string name="lieu_jardin">Jardin d Essai</string>
+        <string name="desc_jardin">Un magnifique jardin botanique situé à Alger, abritant des centaines d’espèces végétales.</string>
+        <string name="rest_djenina">El Djenina</string>
+        <string name="desc_djenina">Restaurant traditionnel algérien servant des plats locaux dans une ambiance typique.</string>
+        <string name="rest_le_tantra">Le Tantra</string>
+        <string name="desc_le_tantra">Restaurant moderne proposant une fusion de cuisines méditerranéenne et algérienne.</string>
+        <string name="hotel_sofitel">Sofitel</string>
+        <string name="desc_sofitel">Hôtel 5 étoiles de luxe situé au cœur d Alger, avec des prestations haut de gamme.</string>
+        <string name="hotel_aurassi">El Aurassi</string>
+        <string name="desc_aurassi">Hôtel emblématique offrant une vue panoramique sur la baie d’Alger.</string>
+
+        <!--Oran -->
+        <string name="lieu_santa_cruz">Fort Santa Cruz</string>
+        <string name="desc_santa_cruz">Ancienne forteresse espagnole offrant une vue panoramique sur la ville et la mer.</string>
+        <string name="lieu_andalouses">Plage Les Andalouses</string>
+        <string name="desc_andalouses">Une des plus belles plages d Oran, idéale pour la baignade et la détente.</string>
+        <string name="rest_meridien">Le Méridien</string>
+        <string name="desc_meridien">Spécialités de fruits de mer avec une magnifique vue sur la mer.</string>
+        <string name="rest_comete">La Comète</string>
+        <string name="desc_comete">Restaurant traditionnel algérien connu pour ses grillades et tajines.</string>
+        <string name="hotel_royal">Royal Hotel</string>
+        <string name="desc_royal">Hôtel 5 étoiles au centre-ville, style luxueux et service haut de gamme.</string>
+        <string name="hotel_ibis">Ibis</string>
+        <string name="desc_ibis">Hôtel moderne et confortable, situé près de la mer.</string>
+
+        <!-- Tlemcen -->
+        <string name="lieu_sidi_boumediene">Mosquée Sidi Boumediene</string>
+        <string name="desc_sidi_boumediene">Un chef-d œuvre d’architecture datant du 14ème siècle.</string>
+        <string name="lieu_el_ourit">Cascade El Ourit</string>
+        <string name="desc_el_ourit">Une magnifique cascade entourée de montagnes.</string>
+        <string name="rest_dar_el_qadi">Dar El Qadi</string>
+        <string name="desc_dar_el_qadi">Cuisine algérienne raffinée et ambiance chaleureuse.</string>
+        <string name="rest_granada">Granada</string>
+        <string name="desc_granada">Spécialités locales et plats traditionnels de Tlemcen.</string>
+        <string name="hotel_renaissance">Renaissance Tlemcen</string>
+        <string name="desc_renaissance">Hôtel 5 étoiles avec une vue panoramique sur les montagnes.</string>
+        <string name="hotel_stambouli">Stambouli</string>
+        <string name="desc_stambouli">Hôtel charmant et traditionnel au cœur de la ville.</string>
+
+        <!-- Constantine -->
+        <string name="lieu_sidi_mcid">Pont Sidi M Cid</string>
+        <string name="desc_sidi_mcid">Pont suspendu emblématique offrant une vue impressionnante sur les gorges.</string>
+        <string name="lieu_palais_ahmed">Palais Ahmed Bey</string>
+        <string name="desc_palais_ahmed">Un magnifique palais historique chargé d histoire.</string>
+        <string name="rest_amandine">L Amandine</string>
+        <string name="desc_amandine">Cuisine algérienne et méditerranéenne dans un cadre élégant.</string>
+        <string name="rest_el_bey">El Bey</string>
+        <string name="desc_el_bey">Spécialités constantinoises et plats traditionnels.</string>
+        <string name="hotel_marriott">Marriott</string>
+        <string name="desc_marriott">Hôtel moderne et luxueux avec une belle vue sur la ville.</string>
+        <string name="hotel_cirta">Cirta</string>
+        <string name="desc_cirta">Hôtel classique situé au centre de Constantine.</string>
+
+        <!-- Ghardaïa -->
+        <string name="lieu_ksar">Ksar de Ghardaïa</string>
+        <string name="desc_ksar">Ancienne cité inscrite à l’UNESCO.</string>
+        <string name="lieu_tafilelt">Tafilelt Place</string>
+        <string name="desc_tafilelt">Une ville écocitoyenne aux portes du Sahara d’Algérie.</string>
+        <string name="rest_rym">Le Rym</string>
+        <string name="desc_rym">Spécialités locales et berbères.</string>
+        <string name="rest_ksar">Dar El Ksar</string>
+        <string name="desc_ksar_rest">Cuisine traditionnelle dans un cadre typique.</string>
+        <string name="hotel_mzab">Hôtel Mzab</string>
+        <string name="desc_mzab">Hôtel 4 étoiles traditionnel.</string>
+        <string name="hotel_belvedere">Le Belvédère</string>
+        <string name="desc_belvedere">Hôtel avec vue panoramique.</string>
+
+        <!-- Timimoun -->
+        <string name="lieu_sebkha">Sebkha de Timimoun</string>
+        <string name="desc_sebkha">Lac salé entouré de dunes rouges.</string>
+        <string name="lieu_palmeraie">Palmeraie de Timimoun</string>
+        <string name="desc_palmeraie">Un véritable havre de paix.</string>
+        <string name="rest_auberge">Auberge du Gourara</string>
+        <string name="desc_auberge">Cuisine traditionnelle du désert.</string>
+        <string name="rest_desert_rouge">Le Désert Rouge</string>
+        <string name="desc_desert_rouge">Spécialités locales et grillades.</string>
+        <string name="hotel_gourara">Hôtel Gourara</string>
+        <string name="desc_gourara">Un hôtel typique avec vue sur les dunes.</string>
+        <string name="hotel_dar_agham">Hôtel Dar Agham</string>
+        <string name="desc_dar_agham">Maison d hôtes au style saharien.</string>
+
+
+
+</resources>

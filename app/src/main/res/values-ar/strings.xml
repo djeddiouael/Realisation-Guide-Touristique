@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application -->
+    <string name="app_name">دليل سياحي</string>
+
+    <!-- Menu -->
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_favorites">المفضلة</string>
+    <string name="menu_settings">الإعدادات</string>
+
+    <!-- MainActivity -->
+    <string name="choose_language">اختر اللغة</string>
+    <string name="title_main">دليل سياحي</string>
+    <string name="main_description">اكتشف أجمل الوجهات السياحية في الجزائر من خلال دليلنا التفاعلي. استكشف المواقع التاريخية والثقافية والطبيعية في مختلف الولايات.</string>
+
+    <!-- VilleActivity -->
+    <string name="tv_description_default">لا توجد معلومات متاحة</string>
+    <string name="section_lieux">أماكن سياحية</string>
+    <string name="section_hotels">الفنادق</string>
+    <string name="section_restaurants">المطاعم</string>
+
+    <!-- Boutons -->
+    <string name="btn_call">اتصل</string>
+    <string name="btn_email">أرسل بريدًا</string>
+    <string name="btn_location">عرض الموقع</string>
+        <!-- Noms des wilayas -->
+        <string name="ville_alger">الجزائر</string>
+        <string name="ville_oran">وهران</string>
+        <string name="ville_tlemcen">تلمسان</string>
+        <string name="ville_constantine">قسنطينة</string>
+        <string name="ville_ghardaia">غرداية</string>
+        <string name="ville_timimoun">تيميمون</string>
+
+        <!-- Descriptions des wilayas -->
+        <string name="desc_alger">الجزائر هي عاصمة الجزائر، مشهورة بتاريخها الغني، وكازبتها المدرجة في قائمة التراث العالمي لليونسكو، ومزيجها الفريد من العمارة العثمانية والفرنسية.</string>
+        <string name="desc_oran">وهران، المعروفة بلؤلؤة الغرب، هي مدينة ساحلية مشهورة بشواطئها الجميلة، وتراثها التاريخي، وحياتها الليلية النشطة.</string>
+        <string name="desc_tlemcen">تلمسان هي مدينة تاريخية مشهورة بعمارتها الإسلامية، ومساجدها القديمة، ومناظرها الطبيعية.</string>
+        <string name="desc_constantine">قسنطينة، "مدينة الجسور المعلقة"، هي مدينة مذهلة تقع على منحدرات صخرية. وهي غنية بالتاريخ والثقافة.</string>
+        <string name="desc_ghardaia">غرداية مشهورة بعمارتها الفريدة وتراثها الثقافي. هي جزء من وادي مزاب، الذي يعد من مواقع التراث العالمي لليونسكو.</string>
+        <string name="desc_timimoun">تيميمون مشهورة بصحرائها الحمراء، ومناظرها الطبيعية الصحراوية، وكصورها التقليدية.</string>
+
+        <!--  Alger -->
+        <string name="lieu_casbah">القصبة</string>
+        <string name="desc_casbah">القصبة هي المدينة القديمة في الجزائر العاصمة، المدرجة في قائمة التراث العالمي لليونسكو، وتتميز بشوارعها الضيقة وعمارتها العثمانية.</string>
+        <string name="lieu_jardin">حديقة التجارب</string>
+        <string name="desc_jardin">حديقة نباتية رائعة تقع في الجزائر، تضم مئات الأنواع النباتية.</string>
+        <string name="rest_djenina">الدجنينة</string>
+        <string name="desc_djenina">مطعم تقليدي جزائري يقدم الأطباق المحلية في جو تقليدي.</string>
+        <string name="rest_le_tantra">التانترا</string>
+        <string name="desc_le_tantra">مطعم عصري يقدم مزيجاً من المأكولات المتوسطية والجزائرية.</string>
+        <string name="hotel_sofitel">سوفيتل</string>
+        <string name="desc_sofitel">فندق خمس نجوم فاخر يقع في قلب الجزائر، مع خدمات عالية المستوى.</string>
+        <string name="hotel_aurassi">الاوراسي</string>
+        <string name="desc_aurassi">فندق مميز يطل على خليج الجزائر.</string>
+
+        <!--  Oran -->
+        <string name="lieu_santa_cruz">قلعة سانتا كروز</string>
+        <string name="desc_santa_cruz">حصن قديم يعود للعهد الإسباني ويقدم إطلالة رائعة على المدينة والبحر.</string>
+        <string name="lieu_andalouses">شاطئ الأندلس</string>
+        <string name="desc_andalouses">أحد أجمل شواطئ وهران، مثالي للسباحة والاسترخاء.</string>
+        <string name="rest_meridien">الميريديان</string>
+        <string name="desc_meridien">مطعم يقدم أطباق البحر الأبيض المتوسط مع إطلالة رائعة على البحر.</string>
+        <string name="rest_comete">كوميت</string>
+        <string name="desc_comete">مطعم تقليدي جزائري معروف بشوي اللحم والطاجين.</string>
+        <string name="hotel_royal">رويال</string>
+        <string name="desc_royal">فندق خمس نجوم يقع في وسط المدينة، بتصميم فاخر وخدمة مميزة.</string>
+        <string name="hotel_ibis">إيبيس</string>
+        <string name="desc_ibis">فندق عصري ومريح يقع بالقرب من البحر.</string>
+
+        <!-- Tlemcen -->
+        <string name="lieu_sidi_boumediene">مسجد سيدي بو مدين</string>
+        <string name="desc_sidi_boumediene">تحفة معمارية من القرن الرابع عشر.</string>
+        <string name="lieu_el_ourit">شلالات إل أورت</string>
+        <string name="desc_el_ourit">شلالات رائعة محاطة بالجبال.</string>
+        <string name="rest_dar_el_qadi">دار القاضي</string>
+        <string name="desc_dar_el_qadi">مأكولات جزائرية راقية وأجواء دافئة.</string>
+        <string name="rest_granada">غرناطة</string>
+        <string name="desc_granada">أطباق تقليدية من تلمسان.</string>
+        <string name="hotel_renaissance">رينيسانس تلمسان</string>
+        <string name="desc_renaissance">فندق خمس نجوم مع إطلالة بانورامية على الجبال.</string>
+        <string name="hotel_stambouli">إسطنبولي</string>
+        <string name="desc_stambouli">فندق تقليدي ساحر في قلب المدينة.</string>
+
+        <!-- Constantine -->
+        <string name="lieu_sidi_mcid">جسر سيدي ميد</string>
+        <string name="desc_sidi_mcid">جسر معلق شهير يقدم منظرًا رائعًا للجرف.</string>
+        <string name="lieu_palais_ahmed">قصر أحمد باي</string>
+        <string name="desc_palais_ahmed">قصر تاريخي مليء بالقصص.</string>
+        <string name="rest_amandine">الأماندين</string>
+        <string name="desc_amandine">المطبخ الجزائري والمتوسط في أجواء أنيقة.</string>
+        <string name="rest_el_bey">البي</string>
+        <string name="desc_el_bey">المأكولات القسنطينية والأطباق التقليدية.</string>
+        <string name="hotel_marriott">ماريت</string>
+        <string name="desc_marriott">فندق عصري فاخر مع إطلالة جميلة على المدينة.</string>
+        <string name="hotel_cirta">سيرتا</string>
+        <string name="desc_cirta">فندق كلاسيكي يقع في وسط قسنطينة.</string>
+
+        <!-- Ghardaïa -->
+        <string name="lieu_ksar">قصر في غرداية</string>
+        <string name="desc_ksar">مدينة قديمة مدرجة ضمن التراث العالمي لليونسكو.</string>
+        <string name="lieu_tafilelt">ر تافيلالت قص</string>
+        <string name="desc_tafilelt">مدينة بيئية على أبواب الصحراء الجزائرية.</string>
+        <string name="rest_rym">الريم</string>
+        <string name="desc_rym">أطباق محلية أمازيغية.</string>
+        <string name="rest_ksar">دار القصور</string>
+        <string name="desc_ksar_rest">مأكولات تقليدية في جو مميز.</string>
+        <string name="hotel_mzab">فندق مزاب</string>
+        <string name="desc_mzab">فندق أربع نجوم تقليدي.</string>
+        <string name="hotel_belvedere">بلفيدير</string>
+        <string name="desc_belvedere">فندق مع إطلالة بانورامية.</string>
+
+        <!-- Timimoun -->
+        <string name="lieu_sebkha">سبخة تيميمون</string>
+        <string name="desc_sebkha">بحيرة مالحة محاطة بالكثبان الرملية الحمراء.</string>
+        <string name="lieu_palmeraie">نخيل تيميمون</string>
+        <string name="desc_palmeraie">جنة حقيقية من النخيل.</string>
+        <string name="rest_auberge">النزل الجوار</string>
+        <string name="desc_auberge">مأكولات تقليدية من الصحراء.</string>
+        <string name="rest_desert_rouge">الصحراء الحمراء</string>
+        <string name="desc_desert_rouge">أطباق محلية وشوي اللحم.</string>
+        <string name="hotel_gourara">فندق قورارة</string>
+        <string name="desc_gourara">فندق تقليدي مع إطلالة على الكثبان الرملية.</string>
+        <string name="hotel_dar_agham">دار أغم</string>
+        <string name="desc_dar_agham">بيت ضيافة بالطراز الصحراوي.</string>
+
+
+
+</resources>
